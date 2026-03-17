@@ -1,4 +1,4 @@
-# HinaFatimaPortfolio
+# Hina Fatima | Co-Founder @ Frionexar Software Agency
 <img width="1582" height="756" alt="image" src="https://github.com/user-attachments/assets/c3065eeb-8ed5-4b19-be38-be09341533e8" />
 ## 👩‍💻 Hina Fatima – Web Developer & Co-Founder
 
