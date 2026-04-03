@@ -10,6 +10,7 @@ Tags: Torkfolio, personal portfolio, resume template, HTML portfolio template, p
 
 */
 /*
+
 -----------------Table of content start -----------------
 
 1. Configuration and helpers
@@ -8323,6 +8324,16 @@ textarea:focus-within {
   .about__shape--style2 .about__shape-item--1 {
     top: 0%;
     right: 9%;
+  }
+}
+
+@media (min-width: 355px) {
+    .service-step {
+    margin-bottom: 20px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100% !important;
   }
 }
 
