@@ -8327,12 +8327,8 @@ textarea:focus-within {
   }
 }
 
-@media (min-width: 355px) {
+@media (min-width: 500px) {
     .service-step {
-    margin-bottom: 20px;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
     width: 100% !important;
   }
 }
