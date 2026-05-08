@@ -10,7 +10,6 @@ Tags: Torkfolio, personal portfolio, resume template, HTML portfolio template, p
 
 */
 /*
-
 -----------------Table of content start -----------------
 
 1. Configuration and helpers
@@ -3791,6 +3790,26 @@ h6 a {
 .banner__content-heading img {
   width: 10%;
 }
+.banner__content-subtitle .falling-heading{
+  font-size: 32px;
+}
+
+.banner__content-subtitle .falling_title{
+  font-size: 50px;
+}
+@media (min-width: 360px) {
+
+  .falling-span span{
+    font-size: 28px;
+  } 
+}
+@media (min-width: 360px) {
+
+  .falling-title span{
+    font-size: 33px;
+  } 
+}
+
 @media (min-width: 992px) {
   .banner__content-heading img {
     width: auto;
@@ -3987,9 +4006,9 @@ h6 a {
   }
 }
 .banner--style1 .banner__thumb img {
-  z-index: 1;
-  width: 400px;
-  margin-top: -39%;
+    z-index: 1;
+    width: 500px;
+    margin-top: -27%;
 }
 .banner--style1 .banner__thumb::before {
   content: "";
@@ -8324,12 +8343,6 @@ textarea:focus-within {
   .about__shape--style2 .about__shape-item--1 {
     top: 0%;
     right: 9%;
-  }
-}
-
-@media (min-width: 500px) {
-    .service-step {
-    width: 100% !important;
   }
 }
 
