@@ -3790,10 +3790,9 @@ h6 a {
 .banner__content-heading img {
   width: 10%;
 }
-.banner__content-subtitle .falling-heading{
-  font-size: 31px;
+.banner__content-subtitle .falling-span{
+  font-size: 32px;
 }
-
 .banner__content-subtitle .falling_title{
   font-size: 50px;
 }
@@ -3805,7 +3804,7 @@ h6 a {
 }
 @media (min-width: 360px) {
 
-  .falling-title{
+  .falling_title{
     font-size: 32px;
   } 
 }
